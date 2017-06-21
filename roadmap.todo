@@ -1,0 +1,4 @@
+Roadmap for alpha version:
+  ☐ Decide on what cryptograpic method we're going to use (discussion on Gitter: https://gitter.im/CryptoWill/Method-Discussion)
+  ☐ Create backend (based on method we've chosen)
+  ☐ Create first client based on the 2 steps above.
