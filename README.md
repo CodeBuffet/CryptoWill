@@ -2,7 +2,7 @@
 
 A decentralized testament system for digital (crypto-currency) and analog (art, valuables, property) goods.
 
-[![Gitter chat](https://badges.gitter.im/CryptoWill/gitter.png)](https://gitter.im/CryptoWill/gitter)
+[![Gitter](https://badges.gitter.im/CryptoWill/Lobby.svg)](https://gitter.im/CryptoWill/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 --------------------------------------------------------------------------------
 
