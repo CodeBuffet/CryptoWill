@@ -6,6 +6,12 @@ A decentralized testament system for digital (crypto-currency) and analog (art, 
 
 --------------------------------------------------------------------------------
 
+# Flowcharts & Whitepaper
+
+Both the editable version of the flowcharts and the whitepaper are in the `pre-pro`-folder.
+
+The flowcharts can be opened in <https://www.draw.io/>
+
 # Roadmap
 
 Currently in **pre-alpha**-stage. Our todos:
